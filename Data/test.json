@@ -1,50 +1,50 @@
 [
-    {
-      "title": "Canada",
-      "author": "Tim Gage",
-      "url": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/photos-api/canada.jpg",
-      "pubdate": 1412208000000,
-      "upvotes": 60,
-      "views": 1195
-    },
-    {
-      "title": "Alps",
-      "author": "Didier Baertshiger",
-      "url": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/photos-api/alps.jpg",
-      "pubdate": 1413590400000,
-      "upvotes": 67,
-      "views": 1266
-    },
-    {
-      "title": "Elk",
-      "author": "Thomas Lefebvre",
-      "url": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/photos-api/elk.jpg",
-      "pubdate": 1415145600000,
-      "upvotes": 83,
-      "views": 3048
-    },
-    {
-      "title": "France",
-      "author": "Didier Baertshiger",
-      "url": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/photos-api/france.jpg",
-      "pubdate": 1413590400000,
-      "upvotes": 55,
-      "views": 1193
-    },
-    {
-      "title": "Gray Fields",
-      "author": "Jeff Sheldon",
-      "url": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/photos-api/gray-fields.jpg",
-      "pubdate": 1418342400000,
-      "upvotes": 130,
-      "views": 1283
-    },
-    {
-      "title": "Lake",
-      "author": "Didier Baertshiger",
-      "url": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/photos-api/lake.jpg",
-      "pubdate": 1416009600000,
-      "upvotes": 2345,
-      "views": 139
-    }
+	{
+	"project": "Angular Bookstore",
+	"url": "https://i.postimg.cc/CLwvDM5y/Bookstore-small.png",
+	"description": "This Bookstore was created with Angular, capable of hosting unlimited books and adding multiple pages to a book like a description or chapter preview",
+	"link": "https://calipso28.github.io/Bookstore-Angular-/#/books"      
+	},
+
+	{
+	"project": "Spotify Playlist App",
+	"url": "https://i.postimg.cc/3RM1wYVc/Jamming-small.png",
+	"description": "This Bookstore was created with Angular, capable of hosting unlimited books and adding multiple pages to a book like a description or chapter preview",
+	"link": "https://calipso28.github.io/Bookstore-Angular-/#/books"      
+	},
+
+	{
+	"project": "Food App",
+	"url": "https://i.postimg.cc/s2GKyv6W/Ravenous-small.png",
+	"description": "This Bookstore was created with Angular, capable of hosting unlimited books and adding multiple pages to a book like a description or chapter preview",
+	"link": "https://calipso28.github.io/Bookstore-Angular-/#/books"      
+	},
+
+	{
+	"project": "Finance Website",
+	"url": "https://i.postimg.cc/rwPgvSJc/Finance-small.png",
+	"description": "This Bookstore was created with Angular, capable of hosting unlimited books and adding multiple pages to a book like a description or chapter preview",
+	"link": "https://calipso28.github.io/Bookstore-Angular-/#/books"      
+	},
+
+	{
+	"project": "Mindtech Home Page",
+	"url": "https://i.postimg.cc/wTFwkKR1/Mindtech-small.png",
+	"description": "This Bookstore was created with Angular, capable of hosting unlimited books and adding multiple pages to a book like a description or chapter preview",
+	"link": "https://calipso28.github.io/Bookstore-Angular-/#/books"      
+	},
+
+	{
+	"project": "Musicon Home Page",
+	"url": "https://i.postimg.cc/zGB0tdT0/Music-Pool-small.jpg",
+	"description": "This Bookstore was created with Angular, capable of hosting unlimited books and adding multiple pages to a book like a description or chapter preview",
+	"link": "https://calipso28.github.io/Bookstore-Angular-/#/books"      
+	}
+
   ]
+
+
+
+
+
+
